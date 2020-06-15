@@ -40,7 +40,7 @@
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-context-support</artifactId>
-            <version>3.0.5.RELEASE</version>
+            <version>5.2.7.RELEASE</version>
         </dependency>
         <!-- suppressing duplicate dependency error because in easyrec.pom unitils is declared with test scope -->
         <!--suppress MavenDuplicateDependenciesInspection -->
