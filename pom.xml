@@ -111,7 +111,7 @@
         <junit.dependency.version>4.8.2</junit.dependency.version>
         <dbunit.dependency.version>2.2.2</dbunit.dependency.version>
         <jmock.dependency.version>2.5.1</jmock.dependency.version>
-        <spring.dependency.version>3.0.5.RELEASE</spring.dependency.version>
+        <spring.dependency.version>5.3.18</spring.dependency.version>
 
         <!-- scm -->
         <scm.host>svn.researchstudio.at</scm.host>
