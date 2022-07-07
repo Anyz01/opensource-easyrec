@@ -110,7 +110,7 @@
         <dependency>
             <groupId>com.jamonapi</groupId>
             <artifactId>jamon</artifactId>
-            <version>2.0</version>
+            <version>2.80</version>
         </dependency>
 
         <!-- required for org.easyrec.utils.servlet -->
